@@ -6,7 +6,7 @@ class txt(object):
 
 I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ ᴀɴᴅ ʀᴇᴇʟs ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴏɴ Tᴇʟᴇɢʀᴀᴍ...</blockquote>
 
-<blockquote>Just send me your Instagram link to download it! ✅</blockquote>
+<blockquote>👉𝐉𝐮𝐬𝐭 𝐒𝐞𝐧𝐝 𝐌𝐞 𝐘𝐨𝐮𝐫 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐋𝐢𝐧𝐤 𝐓𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐢𝐭!✅</blockquote>
 
 <blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>"""
   
