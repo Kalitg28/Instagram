@@ -4,9 +4,9 @@
 class txt(object):
   START_TXT = """<b><blockquote>Hᴇʏ, {}!
 
-I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ ᴀɴᴅ ʀᴇᴇʟs ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴏɴ Tᴇʟᴇɢʀᴀᴍ.
+I ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ Iɴsᴛᴀɢʀᴀᴍ ᴘᴏsᴛ ᴀɴᴅ ʀᴇᴇʟs ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴏɴ Tᴇʟᴇɢʀᴀᴍ...</blockquote>
 
-Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ, ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅</blockquote>
+<blockquote>Just send me your Instagram link to download it! ✅</blockquote>
 
 <blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>"""
   
@@ -16,12 +16,11 @@ Fᴏʀ ᴍᴏʀᴇ ɪɴғᴏ, ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅</blockquote>
   
   
   ABOUT_TXT = """<b>📜 Cʜᴇᴄᴋ Aʙᴏᴜᴛ:
-  
+Admin : @Indian_MV_Admin_Bot 💻
 Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ 📚
 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 🐍
 Sᴇʀᴠᴇʀ: Rᴇɴᴅᴇʀ 🌐
-Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V1.3 🚀
-Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: Aᴠᴀɪʟᴀʙʟᴇ (Fʀᴇᴇ) 💻 
+Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V1.3 🚀 
 
 <blockquote>🌹 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 ›› <a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a></blockquote></b>"""
   
