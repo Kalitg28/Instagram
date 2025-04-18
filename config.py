@@ -9,10 +9,10 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 ADMIN = int(os.getenv("ADMIN", ""))
 
 DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "")) #Channel Id
-LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", ""))
+LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1002364289630"))
 
-DB_URI = os.getenv("DB_URI", "")
-DB_NAME = os.getenv("DB_NAME", "")
+DB_URI = os.getenv("DB_URI", "mongodb+srv://instadownloadmv:instadownloadmv@cluster0.au6obsd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.getenv("DB_NAME", "Cluster0")
 
 IS_FSUB = bool(os.environ.get("FSUB", True)) # Set "True" For Force Subscribe Enable
 AUTH_CHANNELS = os.environ.get("AUTH_CHANNEL", "") # Add Multiple Channels iD By Space
