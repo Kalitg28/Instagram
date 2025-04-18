@@ -8,7 +8,7 @@ API_HASH = os.getenv("API_HASH", "")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 ADMIN = int(os.getenv("ADMIN", ""))
 
-DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "")) #Channel Id
+DUMP_CHANNEL = int(os.getenv("DUMP_CHANNEL", "-1002014126653")) #Channel Id
 LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1002364289630"))
 
 DB_URI = os.getenv("DB_URI", "mongodb+srv://instadownloadmv:instadownloadmv@cluster0.au6obsd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
